@@ -1,0 +1,14 @@
+#conv1b
+fff4ffd3ffee
+000a00420057
+ffbb0054004b
+ffd4ff8affef
+002d0086fffe
+003200000000
+#conv2b
+009d00fc0154
+ffe4ff6a001e
+feddfff7000d
+ffae000a002c
+fe830169ff15
+014c00000000

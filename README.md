@@ -1,2 +1,1 @@
-Instruction gernerator & data arrangement of deepl learning accelerator of 1D ECG & PCG CNN model
-
+Layer configuration and data arrangement of 1D ECG & PCG CNN model for programmable deep learning accelerator
